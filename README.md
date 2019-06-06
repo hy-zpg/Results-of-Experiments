@@ -50,7 +50,7 @@
 
 <div align="center">
 <img src="/visual_outputs-interpolation-rz/generation_z_variations_omniglot_dagan_experiment_default.png" height="300px" alt="0" >
-<img src="/visual_outputs/ggeneration_z_variations_omniglot_dagan_experiment_default.png" height="300px" alt="0" >
+<img src="/visual_outputs/generation_z_variations_omniglot_dagan_experiment_default.png" height="300px" alt="0" >
 </div>
 <center>interpolating for the odd rows vs without interpolation </center>
 
