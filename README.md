@@ -39,7 +39,7 @@
 
 <div align="center">
 <img src="/visual_outputs-with/generation_z_spherical_omniglot_dagan_experiment_default_20.png" height="400px" alt="0" >
-<img src="/visual_outputs-without/generation_z_spherical_omniglot_dagan_experiment_default_20.png" height="300px" alt="0" >
+<img src="/visual_outputs-without/generation_z_spherical_omniglot_dagan_experiment_default_20.png" height="400px" alt="0" >
 <img src="/visual_outputs-with/generation_z_spherical_omniglot_dagan_experiment_default_21.png" height="400px" alt="0" >
 <img src="/visual_outputs-without/generation_z_spherical_omniglot_dagan_experiment_default_21.png" height="400px" alt="0" >
 <img src="/visual_outputs-with/generation_z_spherical_omniglot_dagan_experiment_default_22.png" height="400px" alt="0" >
@@ -51,8 +51,8 @@
 ### generation
 
 <div align="center">
-<img src="/visual_outputs-with/generation_z_variations_omniglot_dagan_experiment_default.png" height="400px" alt="0" >
-<img src="/visual_outputs-without/generation_z_variations_omniglot_dagan_experiment_default.png" height="400px" alt="0" >
+<img src="/visual_outputs-with/generation_z_variations_omniglot_dagan_experiment_default.png" height="600px" alt="0" >
+<img src="/visual_outputs-without/generation_z_variations_omniglot_dagan_experiment_default.png" height="600px" alt="0" >
 </div>
 <center>interpolating for the odd rows vs without interpolation </center>
 
